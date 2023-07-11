@@ -1,0 +1,35 @@
+body{
+    background-color: #f7cac9;
+}
+
+.container{
+    border: 3px solid black;
+    margin-top: 100px;
+    margin-left: 350px;
+    margin-right: 300px;
+    padding-left: 100px;
+    background-color: #eea29a;
+}
+
+.container .row{
+     padding-left: 130px;
+     font-family: cursive;
+}
+
+.a{
+    color: rgb(238, 30, 30);
+    font-size: large;
+    font-weight: 100;
+    font-family: cursive;
+    
+}
+
+.w{
+    font-family: cursive;
+    font-size: large;
+    color: #3e25aa;
+}
+
+.formgrp{
+    padding-left: 150px;
+}
